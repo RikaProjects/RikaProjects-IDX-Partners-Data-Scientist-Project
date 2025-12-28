@@ -37,4 +37,4 @@ Untuk menjalankan notebook analisis di lokal komputer Anda:
 
 1. Clone repository ini:
    ```bash
-   git clone [https://github.com/RikaProjects/RikaProjects-IDX-Partners-Data-Scientist-Project.git](https://github.com/RikaProjects/RikaProjects-IDX-Partners-Data-Scientist-Project.git)
+   git clone [https://github.com/RikaProjects/IDX-Partners-Data-Scientist-Project.git](https://github.com/RikaProjects/IDX-Partners-Data-Scientist-Project.git)
